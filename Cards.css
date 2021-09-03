@@ -12,10 +12,11 @@ body{
   background-image: url(https://images.unsplash.com/photo-1630646148129-edcf882f89b9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)}
   
 
-  .Cards{
+.Cards{
   display: inline-block;
   text-align:center;
   font-size: 30px;
+  display: flex-inline;
 }
 
 button{
@@ -46,3 +47,10 @@ margin: 5px;
   width: 30%;
   margin: 5px;
 }
+
+@media only screen and (max-width: 480px) {
+  .cards {
+    /* display: flex; */
+    flex-wrap: wrap;
+   
+  }}
