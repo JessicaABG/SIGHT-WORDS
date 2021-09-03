@@ -96,7 +96,8 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Javascript			| H |10H| -- | -- |
 | CSS					| H	| 6H| -- | -- |
 | HTML					| H	|2/H| -- | -- |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Total 				| H |22h| -- | -- |
+ |
 
 ## Code Snippet
 

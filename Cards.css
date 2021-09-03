@@ -1,0 +1,14 @@
+header{
+  background-color: pink;
+  padding: 5px;
+  text-align: center;
+  top:0px; left: 0px; right: 0px;
+}
+
+
+table{
+ display: inline-block;
+ justify-content: space-around;
+ align-items: center;
+
+}
