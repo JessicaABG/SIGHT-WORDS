@@ -1,14 +1,48 @@
 header{
-  background-color: pink;
+  font-family: 'Nova Mono', monospace;
+  background-color: rgb(186, 147, 154);
   padding: 5px;
   text-align: center;
   top:0px; left: 0px; right: 0px;
 }
 
+body{
+  font-family: 'Nova Mono', monospace;
+ 
+  background-image: url(https://images.unsplash.com/photo-1630646148129-edcf882f89b9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)}
+  
 
-table{
- display: inline-block;
- justify-content: space-around;
- align-items: center;
+  .Cards{
+  display: inline-block;
+  text-align:center;
+  font-size: 30px;
+}
 
+button{
+border-style: none;
+background-color:transparent;
+}
+
+
+
+#OBJECTS{background-color: rgba(122, 98, 155, 0.8);
+padding-block: 150px;
+width: 30%;
+margin: 5px;
+}
+/* #OBJECTS button{background-color: (122,98,155);
+} */
+
+
+#ANIMALS{background-color: rgb(152, 171, 114,.8);
+  padding-block: 150px;
+  width: 30%;
+  margin: 5px;
+  
+}
+
+#EMOTIONS{background-color: rgba(135, 186, 218, 0.8);
+  padding-block: 150px;
+  width: 30%;
+  margin: 5px;
 }
